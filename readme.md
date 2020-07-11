@@ -9,7 +9,8 @@
 * RTCPeerConnection - 암호화 및 대역폭 관리 및 오디오 또는 비디오 연결
 * RTCDataChannel - 일반적인 데이터 P2P통신
 
-
+![webrtc원리](https://user-images.githubusercontent.com/59307414/87234899-84843880-c410-11ea-9529-607ae5c8f0bb.PNG)
+(시그널링 과정)
 
 * 시그널링 : RTCPeerConnection의 데이터 교환 처리 과정
 
