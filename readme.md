@@ -14,6 +14,9 @@
 
 * 시그널링 : RTCPeerConnection의 데이터 교환 처리 과정
 
+### 결과
+![캡처](https://user-images.githubusercontent.com/59307414/87236695-46deda00-c427-11ea-95c9-430303ac10b0.PNG)
+
 
 
 참고 사이트 : https://velog.io/@ehdrms2034/WebRTC-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A1%9C-%ED%99%94%EC%83%81-%EC%B1%84%ED%8C%85%EC%9D%84-%EB%A7%8C%EB%93%A4-%EC%88%98-%EC%9E%88%EB%8B%A4%EA%B3%A0
