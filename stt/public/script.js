@@ -17,6 +17,16 @@ let content = '';
 
 recognition.continuous = true;
 
+recognition.onspeechend = () => {
+    console.log("Speech End");
+    recognition.start();
+}
+
+recognition.onerror = () => {
+    console.log("On Error");
+    recognition.start();
+}
+
 recognition.onresult = (event) => {
     const current = event.resultIndex;
     const transScript = event.results[current][0].transcript;
